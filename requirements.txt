@@ -3,3 +3,5 @@ requests
 termcolor
 
 ###### Requirements with Version Specifiers ######`
+
+json
